@@ -3,8 +3,9 @@
 3. wait for the studio to load.
 4. on the bottom bar type npm start
 5. exactly npm start
-6. click on ports on the bottom bar
-7. right click the port 8080 and hover over port visibility and make it public.
-8. now hover over the url and click the icon with a glove (second icon)
+6. if it says Server is running then it works.
+7. click on ports on the bottom bar
+8. right click the port 8080 and hover over port visibility and make it public.
+9. now hover over the url and click the icon with a glove (second icon)
 
 IF IT DOESNT ALLOW YOU TO TYPE AND SAYS "Server is running on..." then skip to step 6
